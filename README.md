@@ -134,6 +134,10 @@ three seeds did (+0.009).
 Reproduce a zero-shot run: `python src/wajepa_run.py --split validation --crop 169 --score`
 (needs the devkit on `PYTHONPATH`, weights in `weights/`, frames from `src/img_ingest2.py`).
 
+## Licence
+
+Our code is MIT (see `LICENSE`), except the DriveMA prompt builders in `src/drivema_run.py` (Apache-2.0).
+
 ## Third-party code and weights
 
 Weights and upstream code are not in this repo; each keeps its own licence.
