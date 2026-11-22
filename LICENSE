@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-Exception: the prompt-builder code copied into src/drivema_run.py comes from
-Tsinghua-MARS-Lab/DriveMA (https://github.com/Tsinghua-MARS-Lab/DriveMA) and
-remains under the Apache License, Version 2.0
-(https://www.apache.org/licenses/LICENSE-2.0).

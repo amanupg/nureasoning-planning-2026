@@ -1,0 +1,6 @@
+Third-party code in this repository
+
+Exception: the prompt-builder code copied into src/drivema_run.py comes from
+Tsinghua-MARS-Lab/DriveMA (https://github.com/Tsinghua-MARS-Lab/DriveMA) and
+remains under the Apache License, Version 2.0
+(https://www.apache.org/licenses/LICENSE-2.0).

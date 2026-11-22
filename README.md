@@ -136,7 +136,7 @@ Reproduce a zero-shot run: `python src/wajepa_run.py --split validation --crop 1
 
 ## Licence
 
-Our code is MIT (see `LICENSE`), except the DriveMA prompt builders in `src/drivema_run.py` (Apache-2.0).
+Our code is MIT (see `LICENSE`), except the DriveMA prompt builders in `src/drivema_run.py` (Apache-2.0; see `NOTICE`).
 
 ## Third-party code and weights
 
