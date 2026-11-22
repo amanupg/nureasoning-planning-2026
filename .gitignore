@@ -1,0 +1,13 @@
+.venv/
+data/
+weights/
+ext/
+logs/
+submissions/*.json
+__pycache__/
+*.pyc
+runs/*.pt
+.venv_garage/
+.venv_drivema/
+.venv_swift/
+external/
